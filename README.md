@@ -1,2 +1,5 @@
 # vpstudio
-在网页上进行布局设计，随意拖拽你的html控件，构建你自己的网页
+vpstudio全称VisualizationPageStudio，你可以用它在网页上进行布局设计，随意拖拽你的html控件，构建你自己的网页
+
+vpstudio是不支持pluginbox插件的版本
+vpstudio-plugin是支持pluginbox插件的版本
